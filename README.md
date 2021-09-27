@@ -1,0 +1,2 @@
+# Cartelera
+Gestor de peliculas
