@@ -9,7 +9,7 @@ def main():
     app.mainloop()
     '''
 
-    hola, soy Vane :) y aquí estoy presente xd 
+    Chinga tu madre perro malparido 
     '''
 
 
